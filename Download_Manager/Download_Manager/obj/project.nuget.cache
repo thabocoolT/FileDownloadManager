@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qEammA56EGDxe5nK/OOv//bKEPYHEG3mn1kN7VXhRYASVzBmPvuZI4/PF853uizXlUo+lBSPgpjX/JpxpQb0nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thabo\\Desktop\\Download_Manager\\Download_Manager\\Download_Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thabo\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\thabo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\thabo\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

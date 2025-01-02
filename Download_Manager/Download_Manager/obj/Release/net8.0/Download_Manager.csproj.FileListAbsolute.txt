@@ -1,0 +1,14 @@
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\bin\Release\net8.0\Download_Manager.exe
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\bin\Release\net8.0\Download_Manager.deps.json
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\bin\Release\net8.0\Download_Manager.runtimeconfig.json
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\bin\Release\net8.0\Download_Manager.dll
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\bin\Release\net8.0\Download_Manager.pdb
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\obj\Release\net8.0\Download_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\obj\Release\net8.0\Download_Manager.AssemblyInfoInputs.cache
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\obj\Release\net8.0\Download_Manager.AssemblyInfo.cs
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\obj\Release\net8.0\Download_Manager.csproj.CoreCompileInputs.cache
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\obj\Release\net8.0\Download_Manager.dll
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\obj\Release\net8.0\refint\Download_Manager.dll
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\obj\Release\net8.0\Download_Manager.pdb
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\obj\Release\net8.0\Download_Manager.genruntimeconfig.cache
+C:\Users\thabo\Desktop\Download_Manager\Download_Manager\obj\Release\net8.0\ref\Download_Manager.dll
